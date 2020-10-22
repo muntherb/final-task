@@ -12,4 +12,4 @@
  -Admins and moderators have the ability to delete, update, add and create new flights.
  
  
-![Image of Project]()
+![Image of Project](project.gif)

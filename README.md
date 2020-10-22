@@ -11,5 +11,7 @@
  
  -Admins and moderators have the ability to delete, update, add and create new flights.
  
+Kindly check the Task overview.mp4 file to see an overview of the task at work!
+ 
  
 ![Image of Project](project.gif)
